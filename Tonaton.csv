@@ -1,0 +1,91 @@
+REGION,SIZE,PRICE
+GreaterAccra,80,1160
+GreaterAccra,70,115000
+GreaterAccra,650,180000
+GreaterAccra,50,75000
+GreaterAccra,70,5000
+GreaterAccra,100,220000
+GreaterAccra,100,15000
+GreaterAccra,650,27000
+GreaterAccra,650,28000
+GreaterAccra,100,6000
+UpperEast,1000,12000
+UpperEast,70,11000
+UpperEast,100,15000
+UpperEast,50,4500
+UpperEast,400,500000
+UpperEast,70,14000
+UpperEast,70,35000
+UpperEast,100,14000
+UpperWest,650,22000
+UpperWest,80,30000
+UpperWest,70,14000
+UpperWest,70,15000
+UpperWest,50,7500
+UpperWest,958,40000
+UpperWest,50,7500
+UpperWest,650,30000
+NorthernRegion ,100,21570
+NorthernRegion ,650,16000
+NorthernRegion ,170,6000
+NorthernRegion ,260,3100000
+NorthernRegion ,650,23000
+NorthernRegion ,85,2250
+NorthernRegion ,70,7500
+NorthernRegion ,70,15000
+NorthernRegion ,650,18000
+VoltaRegion,100,9000
+VoltaRegion,900,19000
+VoltaRegion,70,3000
+VoltaRegion,70,15000
+VoltaRegion,60,35000
+VoltaRegion,50,22500
+VoltaRegion,263,75000
+VoltaRegion,50,7500
+VoltaRegion,650,17500
+VoltaRegion,260,5500
+VoltaRegion,650,23000
+VoltaRegion,100,60000
+WesternRegion ,700,3200000
+WesternRegion ,50,7500
+WesternRegion ,7000,9000
+WesternRegion ,75,9000
+WesternRegion ,70,7000
+WesternRegion ,100,21570
+WesternRegion ,70,15000
+WesternRegion ,5321,15200000
+WesternRegion ,1000,270000
+WesternRegion ,650,140000
+WesternRegion ,80,260
+WesternRegion ,67,5500
+CentralRegion,50,7000
+CentralRegion,60,3000
+CentralRegion,50,500
+CentralRegion,60,500
+CentralRegion,325,12000
+CentralRegion,50,17500
+CentralRegion,650,15000
+CentralRegion,100,6000
+BrongAhafo ,650,22000
+BrongAhafo ,170,6000
+BrongAhafo ,70,15500
+BrongAhafo ,50,7500
+BrongAhafo ,50,4500
+BrongAhafo ,253,500000
+BrongAhafo ,170,35000
+AshantiRegion ,50,16200
+AshantiRegion ,60,45000
+AshantiRegion ,650,65000
+AshantiRegion ,70,7600
+AshantiRegion ,70,3000
+AshantiRegion ,50,7500
+AshantiRegion ,7500,90000
+AshantiRegion ,650,18000
+AshantiRegion ,80,180000
+AshantiRegion ,80,1100
+AshantiRegion ,650,16000
+AshantiRegion ,70,7000
+AshantiRegion ,70,15000
+AshantiRegion ,70,4500
+AshantiRegion ,60,11000
+AshantiRegion ,70,31500
